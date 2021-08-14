@@ -12,7 +12,7 @@ public class TC_Browser_Commands extends BaseClass{
 
     @Test (priority = 1)
     void openBrowser () {
-        driver.get("http://shop.demoqa.com/");
+        startPage("http://shop.demoqa.com/");
     }
 
     @Test (priority = 2)

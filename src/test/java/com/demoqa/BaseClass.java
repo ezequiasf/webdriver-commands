@@ -19,4 +19,9 @@ public class BaseClass {
     public void finish () {
         driver.quit();
     }
+
+    public void startPage (String url) {
+        driver.get(url);
+        driver.manage().window().maximize();
+    }
 }
