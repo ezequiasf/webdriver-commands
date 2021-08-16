@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.basic;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

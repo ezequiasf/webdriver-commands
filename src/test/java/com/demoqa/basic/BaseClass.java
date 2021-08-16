@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.basic;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;

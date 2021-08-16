@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.basic;
 
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
