@@ -1,4 +1,4 @@
-package com.demoqa.intermediate;
+package com.dominio.intermediate;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

@@ -1,4 +1,4 @@
-package com.demoqa.intermediate;
+package com.dominio.intermediate;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -6,8 +6,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.security.DrbgParameters;
 
 /***
  * A headless browser is a term used to define browser simulation

@@ -1,4 +1,4 @@
-package com.demoqa.basic;
+package com.dominio.basic;
 
 import org.testng.annotations.Test;
 
