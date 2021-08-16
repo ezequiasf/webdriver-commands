@@ -11,7 +11,7 @@ public class BaseClass {
 
     @BeforeClass
     public void initSetup () {
-        System.setProperty("webdriver.edge.driver", "c:\\edgedriver_win64\\msedgedriver.exe");
+        System.setProperty("webdriver.edge.driver", "drivers/msedgedriver.exe");
         driver = new EdgeDriver();
     }
 
