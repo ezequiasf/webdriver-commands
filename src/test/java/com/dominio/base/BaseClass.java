@@ -1,4 +1,4 @@
-package com.dominio.basic;
+package com.dominio.base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;

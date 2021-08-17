@@ -3,6 +3,7 @@ package com.dominio.intermediate;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import com.dominio.base.BaseClass;
 
 public class TC4_Iframes extends BaseClass{
 

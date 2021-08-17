@@ -1,12 +1,14 @@
 package com.dominio.basic;
 
 import static org.testng.Assert.*;
+
+import com.dominio.base.BaseClass;
 import org.testng.annotations.Test;
 
 
 import java.util.Arrays;
 
-public class TC_Browser_Commands extends BaseClass{
+public class TC_Browser_Commands extends BaseClass {
 
     String[] contentPage;
 

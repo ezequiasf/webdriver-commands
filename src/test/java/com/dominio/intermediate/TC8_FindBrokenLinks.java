@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import static org.testng.Assert.*;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import com.dominio.base.BaseClass;
 
 import java.net.HttpURLConnection;
 import java.net.URL;

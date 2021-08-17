@@ -1,12 +1,13 @@
 package com.dominio.basic;
 
+import com.dominio.base.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
 
-public class TC3_WebElements_Commands extends BaseClass{
+public class TC3_WebElements_Commands extends BaseClass {
 
     WebElement doubleClickBtn;
 

@@ -1,5 +1,6 @@
 package com.dominio.basic;
 
+import com.dominio.base.BaseClass;
 import org.testng.annotations.Test;
 
 public class TC2_Navigation_Commands extends BaseClass {

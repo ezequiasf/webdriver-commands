@@ -2,6 +2,7 @@ package com.dominio.intermediate;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
+import com.dominio.base.BaseClass;
 
 public class TC2_WindowHandling extends BaseClass{
 

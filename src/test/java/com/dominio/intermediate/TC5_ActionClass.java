@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import com.dominio.base.BaseClass;
 
 public class TC5_ActionClass extends BaseClass {
 

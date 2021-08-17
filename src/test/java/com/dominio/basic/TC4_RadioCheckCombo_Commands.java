@@ -1,5 +1,6 @@
 package com.dominio.basic;
 
+import com.dominio.base.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
@@ -9,7 +10,7 @@ import java.util.List;
 
 import static org.testng.Assert.*;
 
-public class TC4_RadioCheckCombo_Commands extends BaseClass{
+public class TC4_RadioCheckCombo_Commands extends BaseClass {
 
     @Test (priority = 1)
     void manipulatingCheck () {
